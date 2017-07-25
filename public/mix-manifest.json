@@ -1,0 +1,17 @@
+{
+  "/js/app.js": "/js/app.js",
+  "/css/app.css": "/css/app.css",
+  "/css/admin.css": "/css/admin.css",
+  "/css/plugin.css": "/css/plugin.css",
+  "/js/plugins.js": "/js/plugins.js",
+  "/js/admin.js": "/js/admin.js",
+  "/js/church_index.js": "/js/church_index.js",
+  "/js/church_create.js": "/js/church_create.js",
+  "/js/church_announcement.js": "/js/church_announcement.js",
+  "/js/organization_announcement.js": "/js/organization_announcement.js",
+  "/js/church_mass_schedule.js": "/js/church_mass_schedule.js",
+  "/js/church_confession_schedule.js": "/js/church_confession_schedule.js",
+  "/js/organization_mass_schedule.js": "/js/organization_mass_schedule.js",
+  "/js/organization_worship_schedule.js": "/js/organization_worship_schedule.js",
+  "/js/organization_bible_schedule.js": "/js/organization_bible_schedule.js"
+}

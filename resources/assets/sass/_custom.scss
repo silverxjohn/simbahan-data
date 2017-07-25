@@ -1,0 +1,22 @@
+table.table {
+  td {
+    text-align: center;
+  }
+}
+
+td.action {
+  a {
+    padding: 10px;
+    font-size: 14pt;
+    color: chocolate;
+  }
+
+  a:hover {
+    background-color: chocolate;
+    color: white;
+  }
+}
+
+td>div>a>span.fa {
+  font-size: 18pt;
+}
